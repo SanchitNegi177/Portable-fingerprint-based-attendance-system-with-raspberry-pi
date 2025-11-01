@@ -55,7 +55,7 @@ cd portable_fingerprint_based_attendance_system
 ```
 2️⃣ Install Dependencies
 ```bash
-pip install pyfingerprint cryptography pygame mysql-connector-python
+pip install -r requirements.txt
 ```
 3️⃣ Connect Hardware
 
