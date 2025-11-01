@@ -1,0 +1,4 @@
+pygame
+cryptography
+pyfingerprint
+mysql-connector-python
