@@ -125,3 +125,6 @@ This project is **open-source** and available for **educational and personal use
 - [Cryptography.io](https://cryptography.io/)  
 - [Pygame](https://www.pygame.org/)  
 - [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+
+## Research Paper
+- [Portable Fingerprint-Based Attendance System with Raspberry-pi](https://ieeexplore.ieee.org/abstract/document/10467918)  
